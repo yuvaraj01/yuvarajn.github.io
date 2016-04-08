@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am a graduate student in Computer Science at University of North Carolina, Charlotte.  I obtained my bachelors degree in Information Technology from R.M.K. Engineering College, Anna University.  I have attained certificates in IBM RAD, IBM DB2 and IBM Blue scholar distinction.  
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I have 2 years of work experience in TATA Consultancy Services where I have worked in a project to create and support a Pricing Tool for Marriott which gives the optimized pricing point for a particular company based on the historical data like the hotel room availability, travel history and the demand. My work was greatly appreciated by my managers and clients.  
 
-What else do you need?
+In my graduate studies, I have developed mobile and web applications.  Recently I have won the IBM category award “Best use of Bluemix” in a hackathon conducted by University of North Carolina, Chappell Hill.  I am enthusiastic and excited to explore new opportunities.  
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
