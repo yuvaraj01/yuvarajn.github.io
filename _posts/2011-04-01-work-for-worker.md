@@ -1,1 +1,0 @@
-A web based application that bridges the gap between skilled workers and the public, Construction and companies. This project has been successfully completed and submitted at “The IBM Great Mind Challenge-2011”.
