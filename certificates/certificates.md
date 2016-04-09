@@ -4,4 +4,4 @@ title: Prizes/Certificates
 ---
 
 ### IBM Blue Scholar
-![IBM BlueScholar](img/Raja_Blue_Scholar.jpg)
+![IBM BlueScholar](img/Raja-Blue-Scholar.jpg)
