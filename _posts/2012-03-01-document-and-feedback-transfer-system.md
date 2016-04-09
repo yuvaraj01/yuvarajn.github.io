@@ -1,1 +1,0 @@
-A web based application which provides tools for managing collaborative, individual writing assignments in large cohorts, automated feedback, automatic question generation and process analysis features.
