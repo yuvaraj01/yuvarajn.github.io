@@ -20,6 +20,10 @@ URL: http://appbluemixjavaeclipse.mybluemix.net/BlueMixAppJava/
 A data analytic web application built on Angular.js and Node.js framework for predicting popularity of US Election candidates using RESTful web services.
 URL: https://electionpredictiveanalysis.mybluemix.net/ 
 
+### CharlotteHack
+A Web application created using python Django framework. This project was created for the hackhathon "Charlotte Hack"
+Demo: https://youtu.be/9q4LlR5kX7w
+
 ### Sentiment Analyser 						       
 A desktop application, developed using python in PYQT4 framework, which implements python NLTK algorithms and Alchemy API to parse and generate sentiments of amazon product reviews and visualize sentiments using PYGOOGLE chart.
 
